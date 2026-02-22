@@ -1,0 +1,7 @@
+node_modules
+coverage
+.scannerwork
+sonar-scanner*
+*.zip
+.env
+dist
