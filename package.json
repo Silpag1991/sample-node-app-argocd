@@ -1,0 +1,19 @@
+{
+  "name": "sample-node-aks-app",
+  "version": "1.0.0",
+  "description": "Sample Node App for AKS Deployment",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.3.3"
+  }
+}
